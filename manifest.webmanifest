@@ -1,0 +1,13 @@
+{
+  "id": "./",
+  "name": "Rita Enterprise HVAC Solutions",
+  "short_name": "Rita Enterprise",
+  "description": "HVAC, air conditioning installation, repair and maintenance services.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#101a52",
+  "icons": [{"src":"./logo.png","sizes":"64x64","type":"image/png","purpose":"any maskable"}]
+}
